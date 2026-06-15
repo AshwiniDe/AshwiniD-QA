@@ -1,4 +1,4 @@
-# AshwiniD-QA
+# QA
 # Hi, I'm Ashwini Deshpande 👋
 
 **ISTQB Certified QA Engineer** | 5+ years experience | Ottawa ON, CA
