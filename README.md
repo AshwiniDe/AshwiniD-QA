@@ -1,7 +1,7 @@
 # AshwiniD-QA
 # Hi, I'm Ashwini Deshpande 👋
 
-**ISTQB Certified QA Engineer** | 5+ years experience | Ottawa, ON 🇨🇦
+**ISTQB Certified QA Engineer** | 5+ years experience | Ottawa ON, CA
 
 I specialise in end-to-end quality assurance for web applications and data platforms — from functional and regression testing to large-scale data migration validation on GCP.
 
@@ -62,4 +62,4 @@ I specialise in end-to-end quality assurance for web applications and data platf
 
 ---
 
-*Open to QA Engineer, QA Analyst, and SDET roles in Ottawa and remote across Canada.*
+*Open to QA Engineer, QA Analyst, and SDET roles all across Canada.*
