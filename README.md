@@ -33,9 +33,9 @@ I specialise in end-to-end quality assurance for web applications and data platf
 
 | Repository | What it covers | Key tools |
 |---|---|---|
-| [playwright-web-testing-framework](https://github.com/ashwini-qa/playwright-web-testing-framework) | Page Object Model framework with E2E tests | Python, Playwright, pytest |
-| [sql-data-validation-scripts](https://github.com/ashwini-qa/sql-data-validation-scripts) | Data migration & quality validation queries | SQL, BigQuery |
-| [api-testing-postman-collections](https://github.com/ashwini-qa/api-testing-postman-collections) | REST API test collections with assertions | Postman, Newman |
+| [playwright-web-testing-framework](https://github.com/AshwiniDe/playwright-web-testing-framework) | Page Object Model framework with E2E tests | Python, Playwright, pytest |
+| [sql-data-validation-scripts](https://github.com/AshwiniDe/sql-data-validation-scripts) | Data migration & quality validation queries | SQL, BigQuery |
+| [api-testing-postman-collections](https://github.com/AshwiniDe/api-testing-postman-collections) | REST API test collections with assertions | Postman, Newman |
 
 ---
 
